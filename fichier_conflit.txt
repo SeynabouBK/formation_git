@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 premiere modification du fichier dans la branche1
 deuxieme modification du fichier dans la branche2
-=======
 Modification depuis branch2_conflit
->>>>>>> branch2_conflit
