@@ -4,3 +4,5 @@ modif3 fichier_stash
 modif4 fichier_stash
 __________
 exemple 3 stash 
+____
+stash exemple 2
