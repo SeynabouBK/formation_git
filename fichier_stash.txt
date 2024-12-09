@@ -2,3 +2,5 @@ Contenu initial
 modif2 fichier_stash
 modif3 fichier_stash
 modif4 fichier_stash
+__________
+exemple 3 stash 
