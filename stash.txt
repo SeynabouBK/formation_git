@@ -1,0 +1,4 @@
+voici mes modifications dans ce fihier, j ai rajouter une autre modification1
+modif 2
+__________
+stash fichier stash.txt
